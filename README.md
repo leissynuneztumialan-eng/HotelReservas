@@ -20,10 +20,10 @@ Aplicación web para reserva de habitaciones de hotel desarrollada con PHP, MySQ
 ## Capturas de pantalla
 
 ### Página principal
-![Inicio](inicio.png)
+![Inicio](inicio_hotel.png)
 
 ### Formulario de reserva
-![Reserva](reserva.png)
+![Reserva](reservar.png)
 
 ## Instalación
 
